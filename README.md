@@ -10,7 +10,11 @@ A UI library of custom Angular components created by @sauconny.
 This repository contains the storybook and individual Angular components that can be used in any Angular application. These are just custom components that I have created for my own personal work that I am putting out there, just in case anyone wanted use it.
 
 ## Installation & Running Locally 💻   
-1. Clone the GitHub repository `https://github.com/sauconny/toshokan.git`
+1. Clone this GitHub repository 
+   
+   ```zsh
+   git clone https://github.com/sauconny/toshokan.git
+   ```
 2. Change directories and install the included dependencies with the following commands below
 
    ```zsh
